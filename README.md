@@ -1,2 +1,4 @@
-# dost-git
-sadfasdf
+# DOST GIT
+## Contributors
+
+- Sean
