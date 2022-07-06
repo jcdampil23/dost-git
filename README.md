@@ -2,3 +2,4 @@
 ## Contributors
 
 - Sean
+- JC
