@@ -1,4 +1,5 @@
 # DOST GIT
+
 ## Contributors
 
-- Sean
+- Sean Terrence Calzada
